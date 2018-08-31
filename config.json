@@ -1,0 +1,15 @@
+{
+  "client_id": "ВАШ ID КЛИЕНТА",
+  "details": "ПОДРОБНОСТИ",
+  "state": "СОСТОЯНИЕ",
+  "end": null,
+  "start": "$real",
+  "assets": {
+    "large_icon": null,
+    "large_icon_text": null,
+    "small_icon": null,
+    "small_icon_text": null,
+    "show_spectate_button": true,
+    "show_join_button": false
+  }
+}
